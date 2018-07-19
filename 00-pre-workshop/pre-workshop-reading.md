@@ -1,0 +1,3 @@
+# Pre-workshop reading
+
+A list of [things] to read before the workshop...
