@@ -1,0 +1,3 @@
+# Post-workshop reading
+
+A list of articles/blog posts/etc. to read and discuss...
