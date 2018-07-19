@@ -3,7 +3,7 @@
 | Time          | Activity                                  |
 |:--------------|:------------------------------------------|
 | 8:30 - 9:00   | Welcome and introductions                 |
-| 9:00 - 10:30  | Teaching Introductory Statistics and Assessing Learning |
+| 9:00 - 10:30  | [Teaching Introductory Statistics and Assessing Learning](/01-intro-stat) |
 | 10:30 - 10:45 | Break :coffee:                            |
 | 10:45 - 1:45  | Teaching focused career opportunities     |
 | 11:30 - 12:30 | Lunch :fork_and_knife: + Roundtable discussions |
