@@ -2,14 +2,22 @@
 
 This session will focus on how to train next generation of statisticians whose research increasingly involves analysis of large and complex datasets. We will discuss best practices for project organization and dissemination of undergraduate research products.
 
+Slides: https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-undergrad-research/hortonslides.pdf
+
 ## Rpubs (https://rpubs.com/about/getting-started)
 
-## github
+## github (https://github.com/mine-cetinkaya-rundel/preparing-to-teach)
 
-## thesisdown
+## thesisdown (https://github.com/ismayc/thesisdown)
 
 
 ```
+New File / R Markdown / From Template / Thesis 
+
+Save into a new folder with name "index"
+
+ thesisdown::thesis_pdf: default
+ # thesisdown::thesis_gitbook: default
 
 ```
 
