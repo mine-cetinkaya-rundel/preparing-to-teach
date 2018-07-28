@@ -8,6 +8,8 @@ Slides: https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/
 
 ## github (https://github.com/mine-cetinkaya-rundel/preparing-to-teach)
 
+https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-undergrad-research/STAT231-2018-02-01.pdf
+
 ## thesisdown (https://github.com/ismayc/thesisdown)
 
 
@@ -20,6 +22,8 @@ Save into a new folder with name "index"
  # thesisdown::thesis_gitbook: default
 
 ```
+
+
 
 ## student project competitions (USPROC) https://www.causeweb.org/usproc
 
