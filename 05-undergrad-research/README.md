@@ -2,7 +2,7 @@
 
 This session will focus on how to train next generation of statisticians whose research increasingly involves analysis of large and complex datasets. We will discuss best practices for project organization and dissemination of undergraduate research products.
 
-Slides: https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-undergrad-research/hortonslides.pdf
+Slides: https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-undergrad-research/researchslides.pdf
 
 ## Rpubs (https://rpubs.com/about/getting-started)
 
