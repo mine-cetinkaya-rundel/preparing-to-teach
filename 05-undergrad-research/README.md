@@ -12,6 +12,8 @@ https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-under
 
 ## thesisdown (https://github.com/ismayc/thesisdown)
 
+https://dukestatsci.github.io/thesis-sp18-yu-reproducibility/
+
 
 ```
 New File / R Markdown / From Template / Thesis 
@@ -20,7 +22,6 @@ Save into a new folder with name "index"
 
  thesisdown::thesis_pdf: default
  # thesisdown::thesis_gitbook: default
-
 ```
 
 
