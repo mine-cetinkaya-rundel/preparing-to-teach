@@ -2,14 +2,13 @@
 
 | Time          | Activity                                  |
 |:--------------|:------------------------------------------|
-| 8:30 - 9:00   | Welcome and introductions                 |
-| 9:00 - 10:30  | [Teaching Introductory Statistics and Assessing Learning](/01-intro-stat) |
-| 10:30 - 10:45 | Break :coffee:                            |
-| 10:45 - 1:45  | [Teaching focused career opportunities](/02-teach-career) |
-| 11:30 - 12:30 | Lunch :fork_and_knife: + [Roundtable discussions](/03-roundtable) |
-| 12:30 - 13:30 | [Teaching Introductory Data Science and Assessing Learning](/04-intro-data-sci) |
-| 13:30 - 13:45 | Break :coffee:                            |
-| 13:45 - 14:30 | [Preparing to mentor undergraduate researchers](05-undergrad-research) |
-| 14:30 - 15:15 | [Opportunities for grants](/06-grants)    |
-| 15:15 - 14:45 | [Sharing resources and staying connected](/07-resources) |
+| 8:15 - 9:00   | Welcome and introductions                 |
+| 9:00 - 10:15  | [GAISE recommendations, and teaching-focused career opportunities](/01-gaise-teach-career) |
+| 10:15 - 10:30 | Break :coffee:                            |
+| 10:30	- 11:30 | [Education research and opportunities for grants](/02-education-research-grants) |
+| 11:30 - 13:00 | Lunch :fork_and_knife: + [Roundtable discussions](/03-roundtable) |
+| 13:00 - 14:00 | [Teaching intro stats and assessing learning](04-intro-stat) |
+| 14:00 - 15:00 | [Teaching intro data science and assessing learning](05-intro-data-sci) |
+| 15:00 - 15:15 | Break :coffee:                            |
+| 15:15 - 15:45 | [Mentoring undergraduate researchers](/06-mentor-undergrad-research)    |
 | 15:45 - 16:00 | Wrap-Up and Moving forward                |
