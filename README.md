@@ -2,7 +2,7 @@
 
 | Time          | Activity                                  |
 |:--------------|:------------------------------------------|
-| 8:15 - 9:00   | Welcome and introductions                 |
+| 8:15 - 9:00   | [Welcome and introductions](/00-welcome)  |
 | 9:00 - 10:15  | [GAISE recommendations, and teaching-focused career opportunities](/01-gaise-teach-career) |
 | 10:15 - 10:30 | Break :coffee:                            |
 | 10:30	- 11:30 | [Education research and opportunities for grants](/02-education-research-grants) |
