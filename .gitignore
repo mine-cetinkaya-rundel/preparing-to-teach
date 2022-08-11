@@ -6,3 +6,4 @@
 participants/
 videos/
 *.pptx
+.DS_Store
