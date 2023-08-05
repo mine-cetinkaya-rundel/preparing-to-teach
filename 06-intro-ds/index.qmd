@@ -30,6 +30,18 @@ library(countdown)
 library(infer)
 ```
 
+# About me
+
+## My teaching backgr
+
+-   PhD at UCLA: Lots of intro stat TAing, found a passion for thinking about how people learn and how to better meet their needs
+
+-   Faculty at Duke:
+
+    -   First 3 years: Focus on intro stat, focusing on infusing modern methods and computing into the curriculum
+
+    -   4th year onwards (including 2 year stint at University of Edinburgh): Focus on intro data science and tool building *(but still actively thinking about intro stat too...)*
+
 # Principles for design
 
 ## Baking a cake {.center}
@@ -199,7 +211,9 @@ Ascd, 2005.
 :::
 :::
 
-## Design foundation 3: PCMI Curriculum Guidelines for Undergraduate Programs in Data Science {.small}
+## Design foundation 3: PCMI Curriculum Guidelines {.small}
+
+2017 Park City Math Institute Curriculum Guidelines for Undergraduate Programs in Data Science
 
 > Students will immediately use a high-level language to explore, visualize, and pose questions about data.
 > In the second semester, a more algorithmic language may be introduced to help students understand the thinking and structure behind the higher-level functions they experienced in the first semester.
@@ -211,6 +225,21 @@ Ascd, 2005.
 -   Concepts of projects and code management
 -   Databases
 -   Introduction to data collection and statistical inference
+
+## Design foundation 3: PCMI Curriculum Guidelines {.small}
+
+2017 Park City Math Institute Curriculum Guidelines for Undergraduate Programs in Data Science
+
+> [Students will immediately use a high-level language to explore, visualize, and pose questions about data.]{style="background-color: #b8c8d2;"}
+> In the second semester, a more algorithmic language may be introduced to help students understand the thinking and structure behind the higher-level functions they experienced in the first semester.
+
+-   [Introduction to high-level language]{style="background-color: #b8c8d2;"}
+-   [Exploring and manipulating data]{style="background-color: #b8c8d2;"}
+-   [Functions and basic coding]{style="background-color: #b8c8d2;"}
+-   [Introduction to modeling]{style="background-color: #b8c8d2;"}, both deterministic and stochastic
+-   [Concepts of projects and code management]{style="background-color: #b8c8d2;"}
+-   Databases
+-   [Introduction to data collection and statistical inference]{style="background-color: #b8c8d2;"}
 
 ## So, where do we go with all this?
 
@@ -226,7 +255,7 @@ Discuss in pairs:
 :::
 
 ```{r echo=FALSE}
-countdown(minutes = 5, font_size = "1.5em")
+countdown(minutes = 3, font_size = "1.5em")
 ```
 
 ## Which kitchen would you rather bake in?
@@ -946,7 +975,10 @@ Do it all in R!
 -   The data science education community is generous!
 
 ::: callout-tip
+## Tip
+
 Look for open course materials and learn about and respect the license.
+All the presenters in this room share their materials openly.
 :::
 
 ## Data Science in a Box
