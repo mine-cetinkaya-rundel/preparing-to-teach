@@ -32,7 +32,7 @@ library(infer)
 
 # About me
 
-## My teaching backgr
+## My teaching background
 
 -   PhD at UCLA: Lots of intro stat TAing, found a passion for thinking about how people learn and how to better meet their needs
 
@@ -40,7 +40,7 @@ library(infer)
 
     -   First 3 years: Focus on intro stat, focusing on infusing modern methods and computing into the curriculum
 
-    -   4th year onwards (including 2 year stint at University of Edinburgh): Focus on intro data science and tool building *(but still actively thinking about intro stat too...)*
+    -   4th year onward (including 2 year stint at University of Edinburgh): Focus on intro data science and tool building *(but still actively thinking about intro stat too...)*
 
 # Principles for design
 
