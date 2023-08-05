@@ -296,6 +296,11 @@ countdown(minutes = 3, font_size = "1.5em")
 
 ## Your turn: UN Votes
 
+```{=html}
+<script src="https://fast.wistia.com/embed/medias/2xell573hf.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:58.75% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_2xell573hf seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/2xell573hf/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+```
+## Your turn: UN Votes
+
 ::: cloud
 {{< fa cloud >}} Go to [bit.ly/dsbox-cloud](https://bit.ly/dsbox-cloud) to join the Posit Cloud workspace for Data Science in a Box \> Log in \> Join \> Content (top left) \> Start the project titled "AE 01a - UN Votes".
 :::
