@@ -285,7 +285,7 @@ countdown(minutes = 3, font_size = "1.5em")
 :::
 
 ::: {.column width="50%"}
--   Go to rstudio.cloud (or some other server based solution)
+-   Go to posit.cloud (or some other server based solution)
 -   Log in with your ID & pass
 
 ```{r hello-R, eval=FALSE}
@@ -316,6 +316,12 @@ Then, change "Turkey" to another country, and render again.
 -   As a student: Why did you choose the country you chose?
 -   As an instructor: What went smoothly in the exercise? What didn't? What would you add to the instructions? What would you take away?
 :::
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5, font_size = "1.5em")
+```
 
 ## How do you prefer your cake recipes? Words only, or words & pictures?
 
