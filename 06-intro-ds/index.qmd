@@ -955,6 +955,32 @@ Do it all in R!
 
 🌲 Leverage the ecosystem
 
+# Technology
+
+## Computing - student facing
+
+![](images/tooling/‎tooling.‎001.png){fig-align="center"}
+
+## Computing - instructor facing
+
+![](images/tooling/‎tooling.‎002.png){fig-align="center"}
+
+## Computing - closer to truth...
+
+![](images/tooling/‎tooling.‎003.png){fig-align="center"}
+
+## Version control + hosting
+
+![](images/tooling/‎tooling.‎009.png){fig-align="center"}
+
+## Version control + hosting + collaboration
+
+![](images/tooling/‎tooling.‎010.png){fig-align="center"}
+
+## Bonus: Peer review
+
+![](images/tooling/‎tooling.‎012.png){fig-align="center"}
+
 # Assessing learning
 
 ## Pieces of assessment
@@ -965,9 +991,10 @@ Do it all in R!
 
 ## Individual vs. team
 
+::: question
 -   How do you create a learning environment that is conducive to teamwork?
-
 -   How do you balance learning as a team with learning individually?
+:::
 
 # Teaching resources
 
